@@ -1,5 +1,5 @@
-# neoGcamp-week1-project- 
-## It's CLI Quiz app on Bangalore?
+# neoGcamp-week1-project
+## It's CLI Quiz app on Bangalore
 
 ### Rules:
 
